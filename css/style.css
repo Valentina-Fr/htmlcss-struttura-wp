@@ -11,6 +11,11 @@ body {
     margin: 0 auto;
 }
 
+/* Utility */
+.float-left {
+    float: left;
+}
+
 /* Header */
 header {
     height: 100px;
@@ -23,4 +28,29 @@ header {
     height: 500px;
     background-color: #e1d67a;
     margin: 30px 0;
+}
+
+.container {
+    height: 700px;
+    background-color: #0286fe;
+    margin: 30px 0 20px;
+}
+
+.top {
+    height: 25%;
+    background-color: #abcfe7;
+}
+
+.side {
+    width: 25%;
+    height: calc(75% - 60px);
+    background-color: #abcfe7;
+    margin: 30px 0;
+}
+
+.middle {
+    width: calc(50% - 40px);
+    height: calc(75% - 60px);
+    background-color: #abcfe7;
+    margin: 30px 20px;
 }
