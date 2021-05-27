@@ -10,3 +10,17 @@ body {
     max-width: 1200px;
     margin: 0 auto;
 }
+
+/* Header */
+header {
+    height: 100px;
+    background-color: #e579e6;
+    margin: 30px 0;
+}
+
+/* Main */
+.row {
+    height: 500px;
+    background-color: #e1d67a;
+    margin: 30px 0;
+}
