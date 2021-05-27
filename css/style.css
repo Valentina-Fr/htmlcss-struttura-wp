@@ -54,3 +54,10 @@ header {
     background-color: #abcfe7;
     margin: 30px 20px;
 }
+
+/* Footer */
+footer {
+    height: 60px;
+    background-color: #8800fe;
+    margin-bottom: 30px;
+}
